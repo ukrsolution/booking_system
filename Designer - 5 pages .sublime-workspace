@@ -1,0 +1,1236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"erorr",
+				"error_reporting"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"Date",
+				"DateTimeZone"
+			],
+			[
+				"ini",
+				"ini_set"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"data_mee",
+				"data_meeting_zoom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"cou",
+				"cursor"
+			],
+			[
+				"created",
+				"created_by_patient"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"is_o",
+				"is_open"
+			],
+			[
+				"dt_ut",
+				"dt_utc_m_start"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"jQ",
+				"jquery"
+			],
+			[
+				"json_d",
+				"json_encode"
+			],
+			[
+				"super",
+				"supervisor_model"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"tri",
+				"trim"
+			],
+			[
+				"the",
+				"thead	Tag"
+			],
+			[
+				"tab",
+				"table	Tag"
+			],
+			[
+				"supe",
+				"supervisor_model"
+			],
+			[
+				"now",
+				"nowDate"
+			],
+			[
+				"mod",
+				"modify"
+			],
+			[
+				"pritn",
+				"print_r"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"Y",
+				"Y-m-d"
+			],
+			[
+				"of",
+				"off"
+			],
+			[
+				"eror",
+				"error_reporting"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"di",
+				"diff2"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"scti",
+				"script	Tag"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"Test",
+				"Test_Id"
+			],
+			[
+				"fo",
+				"for	Attr"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"form",
+				"format"
+			],
+			[
+				"json_",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 4519,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "home.html",
+			"settings":
+			{
+				"buffer_size": 6014,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "faqs.html",
+			"settings":
+			{
+				"buffer_size": 6325,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "news.html",
+			"settings":
+			{
+				"buffer_size": 3379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Whats-Covered.html",
+			"settings":
+			{
+				"buffer_size": 7948,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Understanding-NHI.html",
+			"settings":
+			{
+				"buffer_size": 6533,
+				"line_ending": "Unix",
+				"name": "Understanding NHI"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: un",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: is",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"FTPSync: Download current file"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"Snippet:",
+				"Snippet: <?php $this->… ?>"
+			]
+		],
+		"width": 656.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"5+3",
+			"php -v",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"ls -la"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sgv/server/designers/web-1/html"
+	],
+	"file_history":
+	[
+		"/home/sgv/server/www.adaptivetelehealth-SWN/database/web/user_development.sql",
+		"/home/sgv/server/designers/web-1/html/home.html",
+		"/home/serg/server/www.adaptivetelehealth-SWN/database/web/meeting_history.sql",
+		"/home/serg/server/www.bhi-dev/js/app/directives/old_calendar.js",
+		"/home/serg/server/www.bhi-dev/js/app/directives/calendar.js",
+		"/home/serg/server/www.bhi-dev/js/libs/fullcalendar.js",
+		"/home/serg/server/www.adaptivetelehealth-src/fullcalendar-2.6.0/fullcalendar.js",
+		"/home/serg/server/www.adaptivetelehealth-src/ui-calendar-master/src/calendar.js",
+		"/home/serg/server/www.bhi-dev/application/controllers/scheduling.php",
+		"/home/serg/server/www.bhi-dev/application/helpers/schedule_helper.php",
+		"/home/serg/server/www.bhi-dev/application/controllers/therapist.php",
+		"/home/serg/server/www.bhi-dev/application/controllers/patient.php",
+		"/home/serg/server/www.bhi-dev/application/models/meeting_model.php",
+		"/home/serg/server/www.bhi-dev/application/models/team_model.php",
+		"/home/serg/server/www.bhi-dev/css/adminLTE.css",
+		"/home/serg/server/www.bhi-dev/application/models/therapist_model.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-tab-cancellation-messages.php",
+		"/home/serg/server/www.bhi-dev/js/app/directives/angular-notify.html",
+		"/home/serg/server/www.bhi-dev/js/app/directives/angular-notify.js",
+		"/home/serg/server/www.bhi-dev/js/app/directives/angular-notify.min.js",
+		"/home/serg/server/www.bhi-dev/application/models/admin_model.php",
+		"/home/serg/server/www.bhi-dev/application/models/systempref_model.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-tabs.php",
+		"/home/serg/server/www.bhi-dev/application/views/patient/patientprofile_view.php",
+		"/home/serg/server/www.bhi-dev/application/models/patient_model.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-tab-schedulePreferences.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-tab-calendar.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-tab-officeHours.php",
+		"/home/serg/server/www.bhi-dev/system/libraries/Upload.php",
+		"/home/serg/server/www.bhi-dev/application/models/coms_model.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/systempreferences_view.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-tab-other.php",
+		"/home/serg/server/www.bhi-dev/application/views/supervisor/systempreferences_view.php",
+		"/home/serg/server/www.bhi-dev/application/controllers/video.php",
+		"/home/serg/server/www.bhi-dev/application/helpers/function_helper.php",
+		"/home/serg/server/www.bhi-dev/application/views/includes/footers/scheduling/dashboard_footer.php",
+		"/home/serg/server/www.bhi-dev/js/system_preferences.js",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/messaging.php",
+		"/home/serg/server/www.bhi-dev/js/login.js",
+		"/home/serg/server/www.adaptivetelehealth-SWN/branches/demo_adaptivetelehealth/js/login.js",
+		"/home/serg/server/www.bhi-dev/application/views/developer/systempreferences_view.php",
+		"/home/serg/server/www.bhi-dev/application/views/layouts/includes/head.php",
+		"/home/serg/server/www.adaptivetelehealth-SWN/database/web/604_update.sql",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-tab-weeks.php",
+		"/home/serg/server/www.bhi-dev/application/views/scheduling/dashboard.php",
+		"/home/serg/server/www.bhi-dev/js/TimePickerMR.js",
+		"/home/serg/server/www.adaptivetelehealth-SWN/database/web/patient.sql",
+		"/home/serg/server/www.bhi-dev/application/controllers/user.php",
+		"/home/serg/server/www.adaptivetelehealth-SWN/database/web/th_app_time_to_schedule.sql",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/dashboard.php",
+		"/home/serg/server/www.bhi-dev/application/views/timezone/schedule-modal-different-timezone.php",
+		"/home/serg/server/www.bhi-dev/application/views/timezone/schedule-block-set-timezone.php",
+		"/home/serg/server/lugaro-src/task-21-12-2015/block-home-brands",
+		"/home/serg/server/www.bhi-dev/application/views/admin/systempreferences_view.php",
+		"/home/serg/server/www.bhi-dev/application/controllers/supervisor.php",
+		"/home/serg/server/www.bhi-dev/application/controllers/developer.php",
+		"/home/serg/server/www.bhi-dev/application/models/timezone_model.php",
+		"/home/serg/server/www.bhi-dev/application/controllers/admin.php",
+		"/home/serg/server/www.bhi-dev/application/controllers/tools.php",
+		"/home/serg/server/www.bhi-dev/application/views/patient/systempreferences_view.php",
+		"/home/serg/server/www.bhi-dev/application/views/timezone/schedule-modal-timezone.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-block-set-timezone.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-modal-different-timezone.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-modal-timezone.php",
+		"/home/serg/server/www.bhi-dev/sftp-config.json",
+		"/home/serg/server/www.bhi-dev/application/views/includes/footers/scheduling/orig_dashboard_footer.php",
+		"/home/serg/server/www.bhi-dev/application/controllers/referral.php",
+		"/home/serg/server/www.bhi-dev/js/tourControl.js",
+		"/home/serg/server/www.bhi-dev/application/views/layouts/includes/menu.php",
+		"/home/serg/server/www.bhi-dev/application/models/phpmailer_model.php",
+		"/home/serg/server/www.bhi-dev/application/controllers/coms.php",
+		"/home/serg/server/lugaro-src/rolex_corners_html_EN.txt",
+		"/home/serg/server/lugaro-src/rolex_plaques_html_EN_RETAILER.txt",
+		"/home/serg/server/www.bhi-dev/tickets/system/libraries/js/jqueryui/js/jquery-ui-1.8.23.custom.min.js",
+		"/home/serg/server/www.adaptivetelehealth-SWN/database/web/604_tabels.sql",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/schedule-tab-schedule.php",
+		"/home/serg/server/ukrsolution.com/App/Views/Template.php",
+		"/home/serg/server/www.adaptivetelehealth-SWN/database/web/web_db_tables_definition.sql",
+		"/home/serg/server/www.adaptivetelehealth-SWN/database/web/604_meeting_participants.sql",
+		"/home/serg/server/www.bhi-dev/application/models/zoom_model.php",
+		"/home/serg/server/ukrsolution.com/App/Controllers/Joomla.php",
+		"/home/serg/server/www.adaptivetelehealth-SWN/branches/demo_adaptivetelehealth/js/system_preferences.js",
+		"/home/serg/server/ukrsolution.com/new.php",
+		"/home/serg/server/ukrsolution.com/App/Views/Footer.php",
+		"/home/serg/server/ukrsolution.com/App/Views/_Header.php",
+		"/home/serg/server/ukrsolution.com/App/Views/Header.php",
+		"/home/serg/server/ukrsolution.com/css/ukrsolution.css",
+		"/home/serg/server/ukrsolution.com/database/update_10-11-2015.sql",
+		"/home/serg/server/www.bhi-dev/application/views/patient/dashboard.php",
+		"/home/serg/server/www.bhi-dev/application/views/includes/comsjs.php",
+		"/home/serg/server/www.bhi-dev/application/views/includes/comsjs.min.php",
+		"/home/serg/server/www.bhi-dev/js/comsjs.min.js",
+		"/home/serg/server/www.bhi-dev/system/libraries/Form_validation.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/publicprofile_view.php",
+		"/home/serg/server/www.adaptivetelehealth-src/merge_with_demo.sh",
+		"/home/serg/server/www.bhi-dev/application/views/provider_directory/index.php",
+		"/home/serg/server/www.adaptivetelehealth-SWN/database/web/604_alter_is_open.sql",
+		"/home/serg/server/www.adaptivetelehealth-SWN/database/web/604_add_record.sql",
+		"/home/serg/server/www.bhi-dev/js/app/directives/timepicker.js",
+		"/home/serg/server/ukrsolution.com/test-1.php",
+		"/home/serg/server/ukrsolution.com/css/test-1.css",
+		"/home/serg/server/www.ukrsolution.com-src/UNICON _ Design-Driven WordPress Theme.html",
+		"/home/serg/server/www.adaptivetelehealth-SWN/database/web/custom_backgrounds/create.sql",
+		"/home/serg/server/www.1001shops.com/Framework/Benchmark.php",
+		"/home/serg/server/www.bhi-dev/application/views/includes/patients_for_therapist.php",
+		"/home/serg/server/node-js/chat2/node_modules/index.js",
+		"/home/serg/server/node-js/chat/modul1.js",
+		"/home/serg/server/node-js/chat/index.js",
+		"/home/serg/server/node-js/chat/node_modules/modul1/index.js",
+		"/home/serg/.config/sublime-text-3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/home/serg/.config/sublime-text-3/Packages/User/bh_core.sublime-settings",
+		"/home/serg/server/www.bhi-dev/application/config/config.php",
+		"/home/serg/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/serg/server/edurelay-src/fonts/laravel-notosans-korean-master/public/css/fonts.css",
+		"/home/serg/emails-notification2015-10-20.sql",
+		"/home/serg/server/localhost/index.php",
+		"/home/serg/server/www.bhi-dev/index.php",
+		"/home/serg/server/www.bhi-dev/application/controllers/team.php",
+		"/home/serg/server/www.bhi-dev/js/jquery.dataTables.min.js",
+		"/home/serg/server/www.bhi-dev/application/views/admin/admin_notes.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/admin_notes.php",
+		"/home/serg/server/www.bhi-dev/application/views/developer/admin_notes.php",
+		"/home/serg/server/www.bhi-dev/application/config/development/config.php",
+		"/home/serg/server/www.bhi-dev/application/views/therapist/patientfile_view.php",
+		"/home/serg/server/www.bhi-dev/application/models/supervisor_model.php",
+		"/home/serg/server/www.bhi-dev/application/views/includes/patientfile_quick_view.php",
+		"/home/serg/server/localhost/workers/Ajax.js",
+		"/home/serg/server/localhost/workers/router.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/models",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application/models",
+			"/home/serg/server/www.bhi-dev/application/views/patient",
+			"/home/serg/server/www.bhi-dev/application/config",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application/models",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application/views/patient",
+			"/home/serg/server/www.bhi-dev/application/views/therapist",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application/views/patient",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/ukrsolution.com/App",
+			"/home/serg/server/ukrsolution.com/App/Views",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/ukrsolution.com/App/Views",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application/config",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/ukrsolution.com",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/js",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/config",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application/models",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application/controllers",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application",
+			"/home/serg/server/www.bhi-dev/application/views",
+			"/home/serg/server/www.bhi-dev/application"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"yellow",
+			"\n.list_dot_yellow > li{\n	\n}",
+			".mini-tabs",
+			"color",
+			"this.allEvents",
+			"onChanged",
+			"fullCalendar",
+			"cancelled_meetings",
+			"histo",
+			"meetings",
+			"list_view",
+			"meetings",
+			"selectMeeting",
+			"list_view",
+			"notify",
+			"Ticket_667",
+			"notify",
+			"bootstrap",
+			"confi",
+			"Ticket_897",
+			"histor",
+			"demo_adaptivetelehealth",
+			"Ticket_897",
+			"update_meeting_participants",
+			"ent",
+			"getParticipants_byMeetingId",
+			"updateNickname",
+			"therapist_model",
+			"thera",
+			"mess",
+			"error_reporting",
+			"Waiting for provider confirmatio",
+			"Ticket_667",
+			"My Meetings",
+			"list_view",
+			"noti",
+			"run",
+			"cgNotify",
+			"templateCache",
+			"templateUrl",
+			".duration",
+			"args.duration",
+			"duration",
+			"notify",
+			"duration",
+			"hide:",
+			"show",
+			"Ticket_667",
+			"data-mt-start-sec",
+			"dt_m_start_time",
+			"ukrsol_reschedule",
+			"terapis",
+			"Would you like to cancel this meeting and reschedule",
+			"result",
+			"resultA",
+			"enti",
+			"Ticket_897",
+			"add appoi",
+			"add app",
+			"Ticket_898",
+			"Ticket_886",
+			"Ticket_913",
+			"Ticket_605_Profile_images",
+			"profileImagePath",
+			"Ticket_913",
+			"Ticket_886",
+			"You have been logout",
+			"You have been logou",
+			"ou have been logou",
+			"You have been logout",
+			"Ticket_860_schedule_edit",
+			"Ticket_605_Profile_images",
+			"Yes, save therapist profile imag",
+			"uploadTherapistImage",
+			"Ticket_924",
+			"CLIENT_UPLOAD_PICTURE_ORIGINAL_DIR",
+			"support request:",
+			"Support request",
+			"support request:",
+			"The client's email and client ID",
+			"ollowing should NEVER display in the message even when ",
+			"ncluded in the support messages. This would be a HIPAA violation if it is used by a real client. Please change it r",
+			"Ticket_920",
+			"schedu",
+			"e FAQ section titled \"Upgrades\" in order to use this feature",
+			"Ticket_schedule_tz_changes",
+			"See the FAQ section titled \"Upgrades\" in order to use this feature.",
+			"Ticket_913",
+			"Ticket_920",
+			"Please upgrade to the",
+			"Ticket_schedule_tz_changes",
+			"Ticket_913",
+			"backgro",
+			"Ticket_schedule_tz_changes",
+			"error_reporting(E_ALL);",
+			"Ticket_schedule_office_hours",
+			"hour",
+			"office",
+			"Ticket_745",
+			"<iframe",
+			"login.js",
+			"Ticket_917",
+			"scheduleOpenMeetings",
+			"day_of_week",
+			"Ticket_605_Profile_images",
+			"Ticket_898_office_hours",
+			"Ticket_745",
+			"Ticket_917",
+			"timezone",
+			"initEvents",
+			"eventSources",
+			"initEvents",
+			"format",
+			"cope.therapistHou",
+			"scope.therapistHoursData",
+			"hour",
+			"IF",
+			"Ticket_745",
+			"time_zone_name",
+			"removeAppointmentPrefencesAjax",
+			"id=\"alert\"",
+			"id=\"alertalert\"",
+			"Ticket_898_office_hours",
+			"submit",
+			"set",
+			"updated",
+			"name=\"updated\"",
+			"addPreviewWorkingTime"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Ticket_667",
+			"Ticket_897",
+			"demo_adaptivetelehealth",
+			"Ticket_897",
+			"demo_adaptivetelehealth",
+			"Ticket_667",
+			"Ticket_897",
+			"Ticket_898",
+			"Ticket_886",
+			"Ticket_913",
+			"Ticket_605_Profile_images",
+			"Ticket_913",
+			"Ticket_886",
+			"Ticket_860_schedule_edit",
+			"Ticket_605_Profile_images",
+			"Ticket_924",
+			"Ticket_920",
+			"Ticket_schedule_tz_changes",
+			"Ticket_920",
+			"Ticket_schedule_tz_changes",
+			"Ticket_913",
+			"Ticket_schedule_tz_changes",
+			"Ticket_schedule_office_hours",
+			"Ticket_745",
+			"Ticket_917",
+			"Ticket_605_Profile_images",
+			"Ticket_898_office_hours",
+			"Ticket_745",
+			"Ticket_917",
+			"Ticket_605_Profile_images",
+			"Ticket_898_office_hours",
+			"Ticket_745",
+			"$entity",
+			"demo_adaptivetelehealth",
+			"Ticket_885_time_zone",
+			"Ticket_799",
+			"$time_zone_name",
+			"self::$CI",
+			"Ticket_885_time_zone",
+			"Ticket_799",
+			"utc()",
+			"moment.tz",
+			"",
+			"Ticket_885_time_zone",
+			"Ticket_880",
+			"Ticket_799",
+			"Ticket_879",
+			"Ticket_891",
+			"Ticket_879",
+			"Ticket_885",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_885",
+			"Ticket_880",
+			"Ticket_885",
+			"Ticket_814",
+			"Ticket_885",
+			"Ticket_858",
+			"Ticket_814",
+			"Ticket_858",
+			"Ticket_798_Schedule_simplified_for_Provider",
+			"Ticket_860_schedule_edit",
+			"Ticket_858",
+			"Ticket_798_Schedule_simplified_for_Provider",
+			"Ticket_812_Supervisor_schedule_make_same_options_as_therapist",
+			"Ticket_860_schedule_edit",
+			"Ticket_858",
+			"Ticket_860_schedule_edit",
+			"Ticket_858",
+			"Ticket_798_Schedule_simplified_for_Provider",
+			"Ticket_858",
+			"Ticket_798_Schedule_simplified_for_Provider",
+			"Ticket_860_schedule_edit",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_798_Schedule_simplified_for_Provider",
+			"Ticket_814",
+			"Ticket_812",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_857",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_858",
+			"Ticket_857",
+			"Ticket_798_Schedule_simplified_for_Provider",
+			"Ticket_859_Bug_Schedule_apppointment_label_ads_test_automatically",
+			"Ticket_798_Schedule_simplified_for_Provider",
+			"Ticket_859_Bug_Schedule_apppointment_label_ads_test_automatically",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_605_Profile_images",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_810_Supervisor_share_documents_with_other_staff",
+			"Ticket_813_Bug_Client_cannot_re_open_old_note_on_Notepad",
+			"Ticket_818_Small_Patient_changes",
+			"Ticket_505_Registration_Password_creation",
+			"Ticket_812_Supervisor_schedule_make_same_options_as_therapist",
+			"Ticket_811_Messages_Provider_scheduling",
+			"Ticket_798_Schedule_simplified_for_Provider",
+			"Ticket_fix_alert_DateTime_on_system_pref",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_795_Schedule_link_needed",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_768_Supervisor_Groups_bug",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_792_Patient_dashboard_change",
+			"TICKET_805_On_demand_video_page_for_Supervisor",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_787_Schedule_appointment_view_of_multiple_people_in_appointment",
+			"Ticket_777_Calendar_preference_text_change",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_768_Supervisor_Groups_bug",
+			"Ticket_779_Schedule_opening_colors",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_779_Schedule_opening_colors",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_779_Schedule_opening_colors",
+			"Ticket_768_Supervisor_Groups_bug",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_779_Schedule_opening_colors",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_505_Registration_Password_creation",
+			"Ticket_768_Supervisor_Groups_bug",
+			"Ticket_505_Registration_Password_creation",
+			"Ticket_605_Profile_images",
+			"// $this->cssList[] = '/css/faq.css';",
+			"Ticket_779_Schedule_opening_colors",
+			"Ticket_604_Schedule_blocks_added",
+			"Ticket_632_Auto_open_tab_in_SystemPreferences",
+			"Ticket_631_List_of_unassigned_clients_on_supervisor_dashboard",
+			"Ticket_779_Schedule_opening_colors",
+			"Ticket_631_List_of_unassigned_clients_on_supervisor_dashboard"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3070,
+								3070
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "faqs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4565,
+								4565
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1348.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "news.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3309,
+								3309
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1050.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Whats-Covered.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3147,
+								3147
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1092.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Understanding-NHI.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6096,
+								6096
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Understanding NHI",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2052.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "Designer - 5 pages .sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config",
+				"sftp-config.json"
+			],
+			[
+				"thera",
+				"application/controllers/therapist.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/server/www.bhi-dev/BHI.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
