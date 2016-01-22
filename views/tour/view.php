@@ -52,6 +52,4 @@ $this->params['breadcrumbs'][] = $this->title;
         ],
     ]) ?>
     
-    <!-- <? $this->render('../tour-field/index', ['model' => $model,'searchModel' => $searchModel,'dataProvider' => $dataProvider, ]) ?> -->
-
 </div>
